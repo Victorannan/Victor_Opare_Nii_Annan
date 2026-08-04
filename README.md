@@ -6,8 +6,8 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Profile%20Views-Welcome-2563eb?style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/GitHub-Followers-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Victorannan&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Victorannan?label=Followers&style=for-the-badge&color=2563eb&logo=github&logoColor=white" alt="Followers"/>
 
 </div>
 
