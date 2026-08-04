@@ -31,7 +31,6 @@ const victor = {
     "HTML",
     "CSS",
     "JavaScript",
-    "TypeScript",
     "React",
     "Node.js"
   ],
