@@ -75,32 +75,45 @@ A modern Point of Sale system designed for restaurants featuring:
 
 # 🛠️ Tech Stack
 
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+
+<br><br>
+
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react" />
-</p>
+<img src="https://skillicons.dev/icons?i=react" />
+
+<br><br>
 
 ### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+
+<br><br>
 
 ### Database
 
-<p>
 <img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge"/>
+
+<p>
+<strong>SQL</strong> • PostgreSQL
 </p>
+
+<br>
 
 ### Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-<img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge"/>
-</p>
 
+<br><br>
+
+<img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</div>
 ---
 
 # 📊 GitHub Statistics
