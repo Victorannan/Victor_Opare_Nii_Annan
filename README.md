@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Victorannan.Victorannan&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Victorannan.Victorannan&left_color=grey&right_color=2563eb&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Victorannan?label=Followers&style=for-the-badge&color=2563eb&logo=github&logoColor=white" alt="Followers"/>
 
 </div>
