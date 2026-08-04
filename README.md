@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;React+%7C+PostgreSQL+%7C+SQL;HTML+%7C+CSS+%7C+JavaScript;Building+Modern+Web+Applications;Always+Learning+Something+New" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=victorannan&label=Profile+Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -48,45 +48,29 @@ Development of my IT Help Desk Ticketing System is currently paused while I focu
 ### Languages
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
 
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 
----
-
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
----
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
-
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-
----
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge)
 
 ---
@@ -95,9 +79,9 @@ Development of my IT Help Desk Ticketing System is currently paused while I focu
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=victorannan&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorannan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -107,7 +91,7 @@ Development of my IT Help Desk Ticketing System is currently paused while I focu
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=victorannan&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -117,7 +101,17 @@ Development of my IT Help Desk Ticketing System is currently paused while I focu
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=victorannan&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/victorannan/victorannan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 
 </p>
 
@@ -137,14 +131,16 @@ Development of my IT Help Desk Ticketing System is currently paused while I focu
 
 <p align="left">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/victorannan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<!-- Replace with your LinkedIn profile -->
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<!-- Replace with your email -->
 <a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
