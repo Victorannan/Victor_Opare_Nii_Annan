@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Victorannan.Victorannan&left_color=grey&right_color=2563eb&style=for-the-badge" alt="Profile Views"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVictorannan%2FVictorannan&count_bg=%232563EB&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false&style=for-the-badge" alt="Profile Views"/>
 <img src="https://img.shields.io/github/followers/Victorannan?label=Followers&style=for-the-badge&color=2563eb&logo=github&logoColor=white" alt="Followers"/>
 
 </div>
