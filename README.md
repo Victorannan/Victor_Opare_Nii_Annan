@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Victor+%F0%9F%91%8B;Full-Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications;Always+Learning+Something+New" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=200&section=header&text=Victor%20Opare%20Nii%20Annan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Vibe%20Coder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18"/>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=victorannan&label=Profile+Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/victorannan?label=Followers&style=for-the-badge&color=2563eb" alt="Followers"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=React+%7C+Node.js+%7C+PostgreSQL;Building+Modern+Web+Applications;Currently%3A+Restaurant+POS+System;Always+Learning+Something+New" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Victorannan&label=Profile+Views&color=2563eb&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/Victorannan?label=Followers&style=for-the-badge&color=2563eb" alt="Followers"/>
 
 </div>
 
@@ -33,16 +35,32 @@ const victor = {
 
 ## 💼 What I'm Working On
 
-| Project | Status | Description |
-|---|---|---|
-| 🍽️ **Restaurant POS System** | 🟢 In Progress | A modern point-of-sale system for order management, sales tracking, and inventory control |
-| 🎫 **IT Help Desk Ticketing System** | 🟡 On Hold | Paused while I focus on shipping the POS system first |
+<table>
+<tr>
+<td width="50%">
+
+### 🍽️ Restaurant POS System
+**Status:** 🟢 In Progress
+
+A modern point-of-sale system for order management, sales tracking, and inventory control.
+
+</td>
+<td width="50%">
+
+### 🎫 IT Help Desk Ticketing System
+**Status:** 🟡 On Hold
+
+Paused while I focus on shipping the POS system first.
+
+</td>
+</tr>
+</table>
 
 <br>
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -66,20 +84,20 @@ const victor = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=victorannan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorannan&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Victorannan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victorannan&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=victorannan&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Victorannan&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorannan&theme=tokyo-night&hide_border=true"/>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Victorannan&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/victorannan/victorannan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Victorannan/Victorannan/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 <br>
@@ -96,8 +114,8 @@ const victor = {
 
 ## 🌐 Let's Connect
 
-<p align="left">
-  <a href="https://github.com/victorannan">
+<p align="center">
+  <a href="https://github.com/Victorannan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
@@ -115,5 +133,9 @@ const victor = {
 > *"Every great application starts with a single line of code."*
 
 ⭐ **Thanks for stopping by — if you like my work, a star on my repos goes a long way!**
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer"/>
 
 </div>
